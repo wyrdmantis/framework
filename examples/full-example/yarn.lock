@@ -53,10 +53,6 @@ bcryptjs@^2.4.3:
   version "2.4.3"
   resolved "https://registry.yarnpkg.com/bcryptjs/-/bcryptjs-2.4.3.tgz#9ab5627b93e60621ff7cdac5da9733027df1d0cb"
 
-bluebird@^3.5.0:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.1.tgz#d9551f9de98f1fcda1e683d17ee91a0602ee2eb9"
-
 cross-fetch@0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/cross-fetch/-/cross-fetch-0.0.8.tgz#01ed94dc407df2c00f1807fde700a7cfa48a205c"
@@ -154,11 +150,11 @@ source-map@^0.5.6:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
 
-stripe@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-5.1.1.tgz#a1844ba8ee0c5a94ade1736c7d9c289bd0611b65"
+stripe@^5.10.0:
+  version "5.10.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-5.10.0.tgz#76fffdfc01fec3aef7ec2d1af058dec99b587421"
+  integrity sha512-AUDmXfNAAY/oOfW87HPO4bDzNWJp8iQd0blVWwwEgPxO1DmEC//foI0C9rhr2ZNsuF6kLypPfNtGB9Uf+RCQzQ==
   dependencies:
-    bluebird "^3.5.0"
     lodash.isplainobject "^4.0.6"
     qs "~6.5.1"
     safe-buffer "^5.1.1"
