@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/bcryptjs": "^2.4.1",
+    "@types/bcryptjs": "^2.4.2",
     "@types/validator": "^6.3.0",
     "bcryptjs": "^2.4.3",
     "graphcool-lib": "^0.1.0",
