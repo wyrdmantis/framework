@@ -70,7 +70,7 @@
   "dependencies": {
     "@heroku/linewrap": "^1.0.0",
     "@types/fs-extra": "^4.0.2",
-    "ajv": "^5.2.2",
+    "ajv": "^6.12.3",
     "ansi-escapes": "^3.0.0",
     "ansi-styles": "^3.2.0",
     "bluebird": "^3.5.0",
