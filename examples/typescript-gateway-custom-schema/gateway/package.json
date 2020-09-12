@@ -13,7 +13,7 @@
     "graphql-playground": "^1.0.15",
     "graphql-tools": "^2.3.0",
     "graphql-transform-schema": "^0.1.0",
-    "node-fetch": "^1.7.3"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/body-parser": "^1.16.5",
